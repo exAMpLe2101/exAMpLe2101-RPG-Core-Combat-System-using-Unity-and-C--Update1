@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a6c9bbf1e467c940bcf214dd2b730f2, type: 3}
+  m_Name: Simple Bow Purple
+  m_EditorClassIdentifier: 
+  WeaponRange: 20
+  WeaponDamage: 10
+  WeaponPrefab: {fileID: 8730843136184106911, guid: 69af743e64e46fa4cbee37ba229c7566,
+    type: 3}
+  AnimationOverride: {fileID: 22100000, guid: 649fdaecd6ce6fa4492f6c5daeb9d547, type: 2}
+  isRightHanded: 0
+  projectile: {fileID: 2657971129401375221, guid: 4298858a5d375da4b93cd7992d06928d,
+    type: 3}
